@@ -1,0 +1,12 @@
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\bin\Debug\net6.0\eCommerce.Models.deps.json
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\bin\Debug\net6.0\eCommerce.Models.dll
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\bin\Debug\net6.0\eCommerce.Models.pdb
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\eCommerce.Models.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\eCommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\eCommerce.Models.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\eCommerce.Models.AssemblyInfo.cs
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\eCommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\eCommerce.Models.dll
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\refint\eCommerce.Models.dll
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\eCommerce.Models.pdb
+C:\Users\Usuário\source\EFCore\eCommerce\eCommerce.Models\obj\Debug\net6.0\ref\eCommerce.Models.dll
